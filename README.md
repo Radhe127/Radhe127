@@ -9,7 +9,9 @@
 
 ## 🚀 About Me
 
-Hello! I'm Radheshyam Verma, a passionate developer blending code and creativity. I turn ideas into digital reality with clean, efficient solutions.
+🎓 Academic Journey & Passion for Technology
+Hello! I’m Radheshyam Verma, a driven Computer Science Engineering student at United Institute of Technology, Prayagraj, with an expected graduation in 2027. My academic path is fueled by a deep curiosity for problem-solving, front-end development, and building impactful software.
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/radhe127/radhe127/main/profile.jpg" width="250" style="border-radius:50%; border:4px solid #6e48aa; box-shadow:0 10px 25px rgba(110,72,170,0.4); margin:20px 0">
