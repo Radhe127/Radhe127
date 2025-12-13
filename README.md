@@ -1,12 +1,5 @@
 # Radheshyam Verma 👨‍💻
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=radhe127&label=PROFILE+VIEWS&color=6e48aa&style=for-the-badge)](https://github.com/radhe127)
-[![Follow](https://img.shields.io/github/followers/radhe127?label=FOLLOW+ME&style=for-the-badge&color=9d50bb)](https://github.com/radhe127?tab=followers)
-
-</div>
-
 ## 🚀 About Me
 
 Hello! I’m Radheshyam Verma, a driven Computer Science Engineering student at United Institute of Technology, Prayagraj, with an expected graduation in 2027. My academic path is fueled by a deep curiosity for problem-solving, front-end development, and building impactful software.
