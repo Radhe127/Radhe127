@@ -2,7 +2,13 @@
 
 ## 🚀 About Me
 
-Hello! I’m Radheshyam Verma, a driven Computer Science Engineering student at United Institute of Technology, Prayagraj, with an expected graduation in 2027. My academic path is fueled by a deep curiosity for problem-solving, front-end development, and building impactful software.
+My name is Radheshyam Verma, and I am currently pursuing a B.Tech in Computer Science Engineering from United Institute of Technology, Prayagraj.
+
+I am particularly interested in backend development and problem-solving using Java. I have worked on AI-based projects using Spring Boot and Spring AI, including an Agentic RAG Research Assistant that can retrieve and analyze information using Large Language Models.
+
+In addition, I completed software engineering job simulations from JP Morgan Chase through Forage, where I worked on tasks related to financial transaction systems and software development practices.
+
+My technical skills include Java, Data Structures and Algorithms, Spring Boot, Spring AI, REST APIs, SQL, and Git.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/radhe127/radhe127/main/profile.jpg" width="250" style="border-radius:50%; border:4px solid #6e48aa; box-shadow:0 10px 25px rgba(110,72,170,0.4); margin:20px 0">
