@@ -42,7 +42,7 @@
 > 
 > 🛠️ **Tech Stack:** Java, Spring Boot, Spring AI, Vector Database
 > 
-> 🔗 [Live Demo](https://chat-bot-tawny-rho.vercel.app/login) | 📂 [Source Code](https://github.com/Radhe127/Agentic-RAG-Research-Assistant)
+> 🔗 [Live Demo](https://chat-bot-tawny-rho.vercel.app) | 📂 [Source Code](https://github.com/Radhe127/Agentic-RAG-Research-Assistant)
 
 <hr>
 
